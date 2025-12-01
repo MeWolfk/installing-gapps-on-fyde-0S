@@ -1,9 +1,14 @@
-To install Gapps on your FydeOS you need to do the steps below   
-Download the file named opengapps.zip 
-extract it
-Now open the browser, click extensions 
-Now click manage extensions 
-Now click load unpacked
-Select the open GApps folder the folder should have 9 files
-
-it work on slime too
+Download the GApps Installer ZIP
+Extract the ZIP
+Open the Browser on FydeOS
+Go to Extensions (🧩 icon)
+Click Manage Extensions
+Turn on Developer Mode
+Click Load unpacked
+Select the folder named opengapp
+The GApps Installer app will show automatically (If not then restart once to make it appear)
+Open GApps Installer
+Tap Install and wait for it to finish (takes some time, don’t close anything!)
+Restart your device once
+Open Play Store
+Sign in and enjoy 
